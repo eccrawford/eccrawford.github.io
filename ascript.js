@@ -11,4 +11,9 @@ $(document).ready(function(){
           window.location.hash = target;
       });
   });
+
+  $("a[href^=#]").on("click", function(e) {
+    e.preventDefault();
+    history.pushState({}, "", this.href);
+  });
 });
