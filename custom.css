@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 /** Section4 **/
 
 .section4 {
-  margin: 200px 135px 200px 135px;
+  padding: 200px 135px 200px 135px;
   background: url(img/jane.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -395,6 +395,12 @@ and (max-width: 768px) {
 .navbar-nav > li > a {
   padding-top: 15px;
   padding-bottom: 5px;
+}
+
+@media screen and (max-width: 550px){
+    .section4{
+        padding-left: 75px;
+    }
 }
 
 /** Footer **/
