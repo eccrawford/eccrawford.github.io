@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 /** Section4 **/
 
 .section4 {
-  padding: 200px 135px 200px 135px;
+  margin: 200px 135px 200px 135px;
   background: url(img/jane.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
