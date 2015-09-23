@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .section0 h1 {
   font-weight: 800;
-  /*font-size: 3.0vmax;*/
+  font-size: 1.8em;
 }
 
 .divider {
@@ -102,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 /** Section2 **/
 
 .section2 {
-  padding: 200px 150px 200px 85px; /*TRBL */
+  padding: 200px 150px 200px 50px; /*TRBL */
   background: url(img/gray.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -250,7 +250,7 @@ h1, h2, h3, h4, h5, h6 {
   text-align: left;
   color: #81bcb3;
   font-weight: 400;
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 
 /**  Header Navigation **/
@@ -306,6 +306,7 @@ header li a {
   -moz-transition:color .3s ease-out, background 1s ease-in;
   -webkit-transition:color .3s ease-out, background 1s ease-in;
   transition:color .3s ease-out, background 1s ease-in;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 header li a:hover {
