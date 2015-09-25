@@ -268,7 +268,7 @@ header .navbar-default {
 }
 
 header .navbar-default .navbar-nav a {
-  color: white;
+  color: transparent;
   padding: 5px 8px;
 }
 
@@ -293,6 +293,10 @@ header .active a {
 
 header .active a:hover {
   color: #d1decc;
+}
+
+header .active a:visited {
+  color: #81bcb3;
   background: transparent;
   text-shadow: none;
 }
@@ -307,17 +311,23 @@ header li a {
   -webkit-transition:color .3s ease-out, background 1s ease-in;
   transition:color .3s ease-out, background 1s ease-in;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  background: none;
 }
 
 header li a:hover {
   color: #d1decc;
-  background-color: transparent;
-  text-shadow: none;
   padding-bottom: 5px;
 }
 
+header li a:visited {
+  color: #81bcb3;
+  background: transparent;
+  text-shadow: none;
+}
+
 .nav > li > a:hover {
-  background-color: transparent;
+  color: #d1decc;
+  background: none;
 }
 
 /**  Navbar Brand **/
