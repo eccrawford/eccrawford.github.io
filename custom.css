@@ -325,6 +325,11 @@ header li a:visited {
   text-shadow: none;
 }
 
+.nav > li > a:link {
+  color: #81bcb3;
+  background: #424242;
+}
+
 .nav > li > a:active {
   color: #d1decc;
   background: #424242;
