@@ -327,7 +327,7 @@ header li a:visited {
 
 .nav > li > a:active {
   color: #d1decc;
-  background: none;
+  background: #424242;
 }
 
 .nav > li > a:visited {
@@ -337,7 +337,7 @@ header li a:visited {
 
 .nav > li > a:hover {
   color: #d1decc;
-  background: none;
+  background: #424242;
 }
 
 /**  Navbar Brand **/
