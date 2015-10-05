@@ -311,7 +311,7 @@ header li a {
   -webkit-transition:color .3s ease-out, background 1s ease-in;
   transition:color .3s ease-out, background 1s ease-in;
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-  background: none;
+  background: transparent;
 }
 
 header li a:hover {
@@ -327,7 +327,7 @@ header li a:visited {
 
 .nav > li > a:link {
   color: #81bcb3;
-  background: #424242;
+  background: transparent;
 }
 
 .nav > li > a:active {
@@ -337,12 +337,12 @@ header li a:visited {
 
 .nav > li > a:visited {
   color: #81bcb3;
-  background: #424242;
+  background: transparent;
 }
 
 .nav > li > a:hover {
   color: #d1decc;
-  background: #424242;
+  background: transparent;
 }
 
 /**  Navbar Brand **/
