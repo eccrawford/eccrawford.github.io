@@ -19,8 +19,8 @@ description: Personal website and blog # this means to ignore newlines until "ba
 logo: /logo.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: MsCrawfordEDU
+github_username:  eccrawford
 
 # Build settings
 markdown: kramdown

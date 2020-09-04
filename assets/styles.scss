@@ -1,0 +1,39 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.container.typeset h2 {
+	background: rgba(0,0,0,0.5);
+	color: #ffffff;
+	padding: 5px;
+}
+
+.header .item.item--nav a {
+	color: rgb(0,194,203);
+}
+
+.header .item.item--nav a:hover {
+	color: rgb(8, 161, 168);
+}
+
+.typeset li a {
+	color: rgb(0,0,0);
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #000000 50%);
+}
+
+.typeset li a:hover {
+	color: rgb(8, 161, 168);
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #08a1a8 50%);
+
+}
+
+.about.links a {
+	color: rgb(0,194,203);
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #00c2cb 50%);
+}
+
+.about.links a:hover {
+	color: rgb(8, 161, 168);
+	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #08a1a8 50%);	
+}

@@ -5,6 +5,8 @@
 layout: blog
 title: Blog
 permalink: /blog/
+feature_image: https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1934&q=80
+feature_text: <h2>Blog</h2>
 ---
 
 some blog posts!
