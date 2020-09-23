@@ -1,25 +1,27 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-07-04 16:01:43 -0400
-categories: jekyll update
+title:  "September 23 - Number Systems Review"
+date:   2020-09-22 16:01:43 -0400
+categories: tej4m
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+We will be going over these files in September 22's class. You may download them if you would like your own copy.
 
-Jekyll also offers powerful support for code snippets:
+[1 - Binary and Decimal Number Systems]({{site.url}}/assets/binarydecimal.pdf)
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+[2 - Hexadecimal Review]({{site.url}}/assets/hexadecimalreview.pdf)
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Practice Problems to try (solutions at the end):
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+You should attempt as many of these problems as it takes for you to feel comfortable with the conversion process.
+
+[1 - Binary to Decimal Conversion]({{site.url}}/assets/binarypractice.pdf)
+
+[2 - Decimal to Binary Conversion]({{site.url}}/assets/binarypractice2.pdf)
+
+[3 - Decimal to Hexadecimal Conversion]({{site.url}}/assets/hexpractice1.pdf)
+
+[4 - Hexadecimal to Binary Conversion]({{site.url}}/assets/hexpractice2.pdf)
+
+
+You will likely be able to find other practice problems online as well.

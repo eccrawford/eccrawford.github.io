@@ -37,12 +37,16 @@ header:
   url: /about/
 - title: Blog
   url: /blog/
+- title: TEJ4M
+  url: /tej4m/
 
 footer:
 - title: About
   url: /about/
 - title: Blog
   url: /blog/
+- title: TEJ4M
+  url: /tej4m/
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
