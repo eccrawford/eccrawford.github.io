@@ -2,7 +2,7 @@
 layout: post
 title:  "September 23 - Number Systems Review"
 date:   2020-09-22 16:01:43 -0400
-categories: tej4m
+categories: site.categories.tej4m
 ---
 
 We will be going over these files in September 22's class. You may download them if you would like your own copy.
