@@ -1,8 +1,5 @@
 ---
 ---
-
-@import "{{ site.theme }}";
-
 .container.typeset h2 {
 	background: rgba(0,0,0,0.5);
 	color: #ffffff;
@@ -37,3 +34,16 @@
 	color: rgb(8, 161, 168);
 	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #08a1a8 50%);	
 }
+
+.blogpost a {
+	color: rgb(0,194,203);
+}
+
+.blogpost a:hover {
+	color: rgb(8, 161, 168);
+}
+
+
+@import "{{ site.theme }}";
+
+

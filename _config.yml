@@ -47,6 +47,17 @@ footer:
   url: /blog/
 - title: TEJ4M
   url: /tej4m/
+
+defaults:
+  - scope:
+      path: "_posts/blog"
+    values:
+      type: "blog"
+  - scope:
+      path: "_posts/tej4m"
+    values:
+      type: "tej4m"
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
