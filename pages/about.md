@@ -30,6 +30,10 @@ As a teacher, I'm focused on strengthening my students’ competencies in critic
 
 Previously, I was a student at <span class="about links">[Queen's University](https://queensu.ca)</span> where I completed a Bachelor of Computing (Hons) in Computing & Mathematics and a Bachelor of Arts in History. I also attended Queen's for my Bachelor of Education. I received the <span class="about links">[Queen's School of Computing's Student Distinguished Service Award](https://www.cs.queensu.ca/aboutus/awards/awards.php?type=internal)</span> in 2018 for being heavily involved in orientation week, student government, and as a teaching assistant during my time there.
 
-{% include figure.html image="/assets/me.jpg" alt="Photo of Emily Crawford" position="right" width="375" height="500" %}
 
-You can find me on twitter at <span class="about links">[@MsCrawfordEDU](https://twitter.com/mscrawfordedu)</span>.
+<!-- {% include figure.html image="/assets/me.jpg" alt="Photo of Emily Crawford" position="right" width="375" height="500" %} -->
+
+You can find me on twitter at <span class="about links">[@MsCrawfordEDU](https://twitter.com/mscrawfordedu)</span>. 
+
+
+<img src="/assets/me.jpg" alt="Photo of Emily Crawford" style="display: inline block; float: right;" width="375" height="500">
