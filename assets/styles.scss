@@ -1,49 +1,57 @@
----
----
+--- 
+--- 
+@import "alembic"; //"{{ site.theme }}";
+
+$linkColour: #00c2cb !default;
+$hoverColour: #08a1a8 !default;
 .container.typeset h2 {
-	background: rgba(0,0,0,0.5);
-	color: #ffffff;
-	padding: 5px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #ffffff;
+    padding: 5px;
 }
 
 .header .item.item--nav a {
-	color: rgb(0,194,203);
+    color: rgb(0, 194, 203);
 }
 
 .header .item.item--nav a:hover {
-	color: rgb(8, 161, 168);
+    color: rgb(8, 161, 168);
 }
 
-.typeset li a {
-	color: rgb(0,0,0);
-	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #000000 50%);
+.typeset li a,
+.typeset p a {
+    color: #000000;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #00c2cb 50%);
 }
 
-.typeset li a:hover {
-	color: rgb(8, 161, 168);
-	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #08a1a8 50%);
-
+.typeset li a:hover,
+.typeset p a:hover {
+    color: rgb(8, 161, 168);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #08a1a8 50%);
 }
 
 .about.links a {
-	color: rgb(0,194,203);
-	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #00c2cb 50%);
+    color: rgb(0, 194, 203);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #00c2cb 50%);
 }
 
 .about.links a:hover {
-	color: rgb(8, 161, 168);
-	background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #08a1a8 50%);	
+    color: rgb(8, 161, 168);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 50%, #08a1a8 50%);
 }
 
 .blogpost a {
-	color: rgb(0,194,203);
+    color: rgb(0, 194, 203);
 }
 
 .blogpost a:hover {
-	color: rgb(8, 161, 168);
+    color: rgb(8, 161, 168);
 }
 
+.small .post-meta a {
+    color: rgb(0, 194, 203);
+}
 
-@import "{{ site.theme }}";
-
-
+.small .post-meta a:hover {
+    color: rgb(8, 161, 168);
+}
