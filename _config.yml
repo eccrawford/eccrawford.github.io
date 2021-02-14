@@ -31,8 +31,6 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-repository: eccrawford/eccrawford.github.io
-
 header:
 - title: About
   url: /about/
