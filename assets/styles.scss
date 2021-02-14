@@ -1,6 +1,6 @@
 --- 
 --- 
-@import "alembic"; //"{{ site.theme }}";
+@import "{{ site.theme }}";
 
 $linkColour: #00c2cb !default;
 $hoverColour: #08a1a8 !default;
