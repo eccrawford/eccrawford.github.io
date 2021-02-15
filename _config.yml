@@ -25,7 +25,7 @@ github_username:  eccrawford
 # Build settings
 markdown: kramdown
 #theme: alembic-jekyll-theme
-remote_theme: daviddarnes/alembic
+remote_theme: daviddarnes/alembic@main
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
