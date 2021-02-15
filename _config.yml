@@ -31,7 +31,9 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
 
-header:
+navigation_header:
+- title: Home
+  url: /
 - title: About
   url: /about/
 - title: Blog
@@ -39,7 +41,9 @@ header:
 - title: TEJ4M
   url: /tej4m/
 
-footer:
+navigation_footer:
+- title: Home
+  url: /
 - title: About
   url: /about/
 - title: Blog
