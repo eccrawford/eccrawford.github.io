@@ -9,4 +9,4 @@ feature_image: https://images.unsplash.com/photo-1517463282225-ef2e81449b71?ixli
 feature_text: <h2>Personal Portfolio of Emily Crawford</h2>
 ---
 
-Hi there! Welcome to my website. It's still under construction at the moment while I learn how to use Jekyll!
+Hi there! Welcome to my website. I'm a new teacher based in Ontario, Canada. Writing helps me process my experiences. Feel free to check it out above.
