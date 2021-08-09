@@ -10,6 +10,10 @@ $hoverColour: #08a1a8 !default;
     padding: 5px;
 }
 
+.typeset blockquote p {
+    border-left: 0.15rem solid #00c2cb;
+}
+
 .header .item.item--nav a {
     color: rgb(0, 194, 203);
 }

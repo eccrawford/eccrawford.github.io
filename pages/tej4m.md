@@ -8,8 +8,6 @@ permalink: /tej4m/
 feature_image: https://images.unsplash.com/photo-1580706483913-b6ea7db483a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2137&q=80
 feature_text: <h2>TEJ4M</h2>
 ---
-Some materials from TEJ4M: Grade 12 Computer Engineering Technology.
-
 {% assign posts = site.posts | where:"type", "tej4m" %}
 
 <ul class="list  list--posts">
