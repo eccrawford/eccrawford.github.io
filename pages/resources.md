@@ -5,7 +5,7 @@
 layout: page
 title: 
 permalink: /resources/
-feature_image: https://images.unsplash.com/photo-1580706483913-b6ea7db483a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2137&q=80
+feature_image: /assets/resources2.jpg
 feature_text: <h2>Resources</h2>
 ---
 

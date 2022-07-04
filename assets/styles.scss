@@ -28,6 +28,12 @@ $hoverColour: #08a1a8 !default;
     font-family: 'Aleo';
 }
 
+#splash {
+    background: rgba(0, 0, 0, 0.2);
+    color: #ffffff;
+    padding: 5px;
+}
+
 .typeset h1, .typeset h2, .typeset h3, .typeset h4, .typeset h5, .typeset h6{
     font-family: 'Aleo';
     font-weight: 500;

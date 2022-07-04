@@ -5,8 +5,8 @@
 layout: page
 title:
 permalink: /
-feature_image: /assets/writing.jpg
-feature_text: <h2>Personal Portfolio of Emily Crawford</h2>
+feature_image: /assets/splash.avif
+feature_text: <h2 id="splash">Personal Portfolio of Emily Crawford</h2>
 ---
 
 Hi there! Welcome to my website. I'm a new teacher based in Ontario, Canada. Writing helps me process my experiences. Feel free to check it out above.
