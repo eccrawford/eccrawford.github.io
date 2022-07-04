@@ -38,8 +38,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
-- title: TEJ4M
-  url: /tej4m/
+- title: Resources
+  url: /resources/
 
 navigation_footer:
 - title: Home
@@ -48,8 +48,8 @@ navigation_footer:
   url: /about/
 - title: Blog
   url: /blog/
-- title: TEJ4M
-  url: /tej4m/
+- title: Resources
+  url: /resources/
 
 defaults:
   - scope:
@@ -57,9 +57,9 @@ defaults:
     values:
       type: "blog"
   - scope:
-      path: "_posts/tej4m"
+      path: "_posts/resources"
     values:
-      type: "tej4m"
+      type: "resources"
   
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
