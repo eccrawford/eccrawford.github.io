@@ -3,11 +3,14 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Resources
+title: 
 permalink: /resources/
 feature_image: https://images.unsplash.com/photo-1580706483913-b6ea7db483a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2137&q=80
 feature_text: <h2>Resources</h2>
 ---
+
+Here you'll find various teaching resources and materials for courses I've taught. As I develop more I'll likely organize it better, but for now, here are a mix of posts.
+
 {% assign posts = site.posts | where:"type", "resources" %}
 
 <ul class="list  list--posts">

@@ -3,12 +3,14 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Blog
+title: 
 permalink: /blog/
 feature_image: /assets/blogbanner.png
 feature_text: <h2>Blog Posts</h2>
 site.categories: blog
 ---
+
+Various reflections on teaching.
 
 {% assign posts = site.posts | where:"type", "blog" %}
 
