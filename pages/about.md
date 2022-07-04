@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: <h1 id="about">About</h1>
 permalink: /about/
 ---
 
