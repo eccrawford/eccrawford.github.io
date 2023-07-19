@@ -32,20 +32,20 @@ plugins:
   - jekyll-seo-tag
 
 navigation_header:
-- title: Home
-  url: /
 - title: About
-  url: /about/
+  url: /
+#- title: About
+#  url: /about/
 - title: Blog
   url: /blog/
 - title: Resources
   url: /resources/
 
 navigation_footer:
-- title: Home
-  url: /
 - title: About
-  url: /about/
+  url: /
+#- title: About
+#  url: /about/
 - title: Blog
   url: /blog/
 - title: Resources
