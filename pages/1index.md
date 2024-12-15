@@ -15,6 +15,6 @@ As a teacher, I'm focused on strengthening my students’ competencies in critic
 
 Previously, I was a student at <span class="about links">[Queen's University](https://queensu.ca)</span> where I completed a Bachelor of Computing (Hons) in Computing & Mathematics and a Bachelor of Arts in History. I also attended Queen's for my Bachelor of Education. I received the <span class="about links">[Queen's School of Computing's Student Distinguished Service Award](https://www.cs.queensu.ca/news/2018/05/30/tenth-annual-school-of-computing-awards/)</span> in 2018 for being heavily involved in orientation week, student government, and as a teaching assistant during my time there.
 
-Currently, I am working on a project to introduce coding resources to the new grade 9 mathematics curriculum in Ontario, <strong>MTH1W</strong>. You can find more information about the project, including webinars and the resources themselves, over at <span class="about links">[csintegration.ca](https://csintegration.ca)</span>.
+Currently, I am a MEd student at <span class="about links">[OISE](https://www.oise.utoronto.ca/home/)</span> in the field of Curriculum & Pedagogy. 
 
-You can find me on twitter at <span class="about links">[@MsCrawfordEDU](https://twitter.com/mscrawfordedu)</span>. 
+You can find me on Twitter at <span class="about links">[@MsCrawfordEDU](https://twitter.com/mscrawfordedu)</span>. 
